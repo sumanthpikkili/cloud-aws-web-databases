@@ -1,6 +1,8 @@
 # cloud-aws-web-databases
 Product Details Web application (Elastic Bean Stalk)
 
+##DESCRIPTION
+    A personalized web application which lets users add, edit, delete and view products.
 
 ##TECHNICAL SPECIFICATIONS
     Platform: MAC OSX Yosemite (32 bit)
